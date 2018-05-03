@@ -1,0 +1,8 @@
+/.idea
+*.log
+/runtime
+/vender
+/public/uploads
+/.env
+/vendor
+/thinkphp
